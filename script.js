@@ -12,7 +12,11 @@ function displayEvents(filter) {
       }
 
       events.forEach((event) => {
-        if (!filter || Object.values(event).includes(filter)) {
+        if (
+          (!filter.date || event['Date & Time'].includes(filter.date)) &&
+          (!filter.type || event['Event Type'] === filter.type) &&
+          (!filter.venue || event['Venue'] === filter.venue)
+        ) {
           const row = table.insertRow(table.rows.length);
           const cell1 = row.insertCell(0);
           const cell2 = row.insertCell(1);
@@ -33,22 +37,55 @@ function displayEvents(filter) {
     .catch((error) => console.error('Error fetching events: ', error));
 }
 
-displayEvents();
+// Function to populate dropdown options
+function populateDropdownOptions() {
+  fetch('events.json')
+    .then((response) => response.json())
+    .then((data) => {
+      const events = data.Events;
+      const typeFilter = document.getElementById('typeFilter');
+      const venueFilter = document.getElementById('venueFilter');
 
-// Event listeners for filter buttons
-document.getElementById('filterDate').addEventListener('click', () => {
-  const filterValue = prompt(
-    'Enter a Date & Time (e.g., "Nov 1, 2023 7:00pm"):'
-  );
-  displayEvents(filterValue);
+      const eventTypes = new Set();
+      const venues = new Set();
+
+      events.forEach((event) => {
+        eventTypes.add(event['Event Type']);
+        venues.add(event['Venue']);
+      });
+
+      for (let type of eventTypes) {
+        const option = document.createElement('option');
+        option.value = type;
+        option.textContent = type;
+        typeFilter.appendChild(option);
+      }
+
+      for (let venue of venues) {
+        const option = document.createElement('option');
+        option.value = venue;
+        option.textContent = venue;
+        venueFilter.appendChild(option);
+      }
+    });
+}
+
+populateDropdownOptions();
+
+// Event listeners for filter elements
+document.getElementById('dateFilter').addEventListener('input', () => {
+  const dateValue = document.getElementById('dateFilter').value;
+  displayEvents({ date: dateValue });
 });
 
-document.getElementById('filterType').addEventListener('click', () => {
-  const filterValue = prompt('Enter an Event Type:');
-  displayEvents(filterValue);
+document.getElementById('typeFilter').addEventListener('change', () => {
+  const typeValue = document.getElementById('typeFilter').value;
+  displayEvents({ type: typeValue });
 });
 
-document.getElementById('filterVenue').addEventListener('click', () => {
-  const filterValue = prompt('Enter a Venue:');
-  displayEvents(filterValue);
+document.getElementById('venueFilter').addEventListener('change', () => {
+  const venueValue = document.getElementById('venueFilter').value;
+  displayEvents({ venue: venueValue });
 });
+
+displayEvents({});

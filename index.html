@@ -15,16 +15,23 @@
     th {
       background-color: #f2f2f2;
     }
-    button {
+    select, input[type="date"] {
       margin: 5px;
     }
   </style>
 </head>
 <body>
   <h1>Upcoming Events</h1>
-  <button id="filterDate">Filter by Date</button>
-  <button id="filterType">Filter by Event Type</button>
-  <button id="filterVenue">Filter by Venue</button>
+  <label for="dateFilter">Filter by Date:</label>
+  <input type="date" id="dateFilter">
+  <label for="typeFilter">Filter by Event Type:</label>
+  <select id="typeFilter">
+    <option value="">All</option>
+  </select>
+  <label for="venueFilter">Filter by Venue:</label>
+  <select id="venueFilter">
+    <option value="">All</option>
+  </select>
   <table>
     <tr>
       <th>Date & Time</th>
