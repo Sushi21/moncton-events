@@ -1,0 +1,345 @@
+{
+  "Events": [
+    {
+      "Date & Time": "Nov 1, 2023 7:00pm",
+      "Event Type": "Sports - Hockey (AUS)",
+      "Event Information": "Université de Moncton vs University of PEI",
+      "Venue": "J-Louis Lévesque Arena",
+      "Cost": "",
+      "Tickets": ""
+    },
+    {
+      "Date & Time": "Nov 1, 2023 8:30pm",
+      "Event Type": "Movie",
+      "Event Information": "Classic Horror Movie Night: Child’s Play",
+      "Venue": "Xeroz Arcade/Bar",
+      "Cost": "Free",
+      "Tickets": ""
+    },
+    {
+      "Date & Time": "Nov 2, 2023 7:30pm",
+      "Event Type": "Comedy",
+      "Event Information": "Open Mic Comedy Night",
+      "Venue": "Xeroz Arcade/Bar",
+      "Cost": "Free",
+      "Tickets": ""
+    },
+    {
+      "Date & Time": "Nov 2, 2023 8:00pm",
+      "Event Type": "Music - Classic Rock",
+      "Event Information": "Trooper, Honeymoon Suite",
+      "Venue": "Molson Canadian Centre",
+      "Cost": "$70",
+      "Tickets": "Sold Out"
+    },
+    {
+      "Date & Time": "Nov 2, 2023 8:00pm",
+      "Event Type": "Music",
+      "Event Information": "Gypsy Reese",
+      "Venue": "Hub City Pub",
+      "Cost": "Free",
+      "Tickets": ""
+    },
+    {
+      "Date & Time": "Nov 3, 2023 10:00pm",
+      "Event Type": "Music - Indie Rock",
+      "Event Information": "Marian, Kylie Fox",
+      "Venue": "Xeroz Arcade/Bar",
+      "Cost": "$10",
+      "Tickets": ""
+    },
+    {
+      "Date & Time": "Nov 3, 2023 10:00pm",
+      "Event Type": "Music - Dance",
+      "Event Information": "Maritime Shakedown",
+      "Venue": "Tide & Boar Gastropub",
+      "Cost": "$12-$15",
+      "Tickets": "Tickets"
+    },
+    {
+      "Date & Time": "Nov 3, 2023 10:00pm",
+      "Event Type": "Music",
+      "Event Information": "Lisa Richard Band",
+      "Venue": "Hub City Pub",
+      "Cost": "Free",
+      "Tickets": ""
+    },
+    {
+      "Date & Time": "Nov 3, 2023 10:00pm",
+      "Event Type": "Music - Covers",
+      "Event Information": "Signal Hill",
+      "Venue": "Tide & Boar Ballroom",
+      "Cost": "",
+      "Tickets": "Tickets"
+    },
+    {
+      "Date & Time": "Nov 4, 2023 9:00pm",
+      "Event Type": "Music - Hard Rock, Stoner Rock",
+      "Event Information": "Irönhead Tribute to Mötorhead, Diner Drugs",
+      "Venue": "Xeroz Arcade/Bar",
+      "Cost": "$15",
+      "Tickets": ""
+    },
+    {
+      "Date & Time": "Nov 4, 2023 10:00pm",
+      "Event Type": "Other - Halloween Party",
+      "Event Information": "Brazil Night Halloween Party",
+      "Venue": "Tide & Boar Gastropub",
+      "Cost": "$15-$20",
+      "Tickets": "Tickets"
+    },
+    {
+      "Date & Time": "Nov 4, 2023 10:00pm",
+      "Event Type": "Music",
+      "Event Information": "Juggler’s Whole",
+      "Venue": "Hub City Pub",
+      "Cost": "Free",
+      "Tickets": ""
+    },
+    {
+      "Date & Time": "Nov 4, 2023 10:00pm",
+      "Event Type": "Music - Covers",
+      "Event Information": "Signal Hill",
+      "Venue": "Tide & Boar Ballroom",
+      "Cost": "",
+      "Tickets": "Sold Out"
+    },
+    {
+      "Date & Time": "Nov 5, 2023 7:30pm",
+      "Event Type": "Music - Country [FR]",
+      "Event Information": "Jolene and the Gambler",
+      "Venue": "Capitol Theatre",
+      "Cost": "$51",
+      "Tickets": "Tickets"
+    },
+    {
+      "Date & Time": "Nov 6, 2023 7:30pm",
+      "Event Type": "Comedy",
+      "Event Information": "Ron James",
+      "Venue": "Capitol Theatre",
+      "Cost": "$75",
+      "Tickets": "Tickets"
+    },
+    {
+      "Date & Time": "Nov 7, 2023 7:30pm",
+      "Event Type": "Music - Indie Rock",
+      "Event Information": "Dan Mangan",
+      "Venue": "Capitol Theatre",
+      "Cost": "$51",
+      "Tickets": "Tickets"
+    },
+    {
+      "Date & Time": "Nov 7, 2023 7:30pm",
+      "Event Type": "Circus - Holiday",
+      "Event Information": "Cirque Musica",
+      "Venue": "Avenir Centre",
+      "Cost": "$62-$95",
+      "Tickets": "Tickets"
+    },
+    {
+      "Date & Time": "Nov 8, 2023 7:30pm",
+      "Event Type": "Music - Acadian",
+      "Event Information": "FrancoFête en Acadie",
+      "Venue": "Capitol Theatre",
+      "Cost": "$21",
+      "Tickets": "Tickets"
+    },
+    {
+      "Date & Time": "Nov 8, 2023 8:30pm",
+      "Event Type": "Movie",
+      "Event Information": "Classic Horror Movie Night: Evil Dead 2",
+      "Venue": "Xeroz Arcade/Bar",
+      "Cost": "Free",
+      "Tickets": ""
+    },
+    {
+      "Date & Time": "Nov 9, 2023 6:00pm",
+      "Event Type": "Other - Video Games",
+      "Event Information": "Guitar Hero Night",
+      "Venue": "Xeroz Arcade/Bar",
+      "Cost": "",
+      "Tickets": ""
+    },
+    {
+      "Date & Time": "Nov 9, 2023 7:00pm",
+      "Event Type": "Music - Rock",
+      "Event Information": "Love Guns: Kiss Tribute",
+      "Venue": "Molson Canadian Centre",
+      "Cost": "$42-$53",
+      "Tickets": "Tickets"
+    },
+    {
+      "Date & Time": "Nov 9, 2023 7:30pm",
+      "Event Type": "Music - Acadian",
+      "Event Information": "FrancoFête en Acadie",
+      "Venue": "Capitol Theatre",
+      "Cost": "$21",
+      "Tickets": "Tickets"
+    },
+    {
+      "Date & Time": "Nov 9, 2023 8:00pm",
+      "Event Type": "Music",
+      "Event Information": "Stacey Crawford",
+      "Venue": "Hub City Pub",
+      "Cost": "Free",
+      "Tickets": ""
+    },
+    {
+      "Date & Time": "Nov 10, 2023 7:00pm",
+      "Event Type": "Sports - Hockey (QMJHL)",
+      "Event Information": "Moncton Wildcats vs Charlottetown Islanders",
+      "Venue": "Avenir Centre",
+      "Cost": "$23",
+      "Tickets": "Tickets"
+    },
+    {
+      "Date & Time": "Nov 10, 2023 7:30pm",
+      "Event Type": "Music - Acadian",
+      "Event Information": "FrancoFête en Acadie",
+      "Venue": "Capitol Theatre",
+      "Cost": "$21",
+      "Tickets": "Tickets"
+    },
+    {
+      "Date & Time": "Nov 10, 2023 7:30pm",
+      "Event Type": "Music - Country,Pop",
+      "Event Information": "Still The One! - The Shania Twain Experience",
+      "Venue": "Riverview Arts Centre",
+      "Cost": "$39",
+      "Tickets": "Tickets"
+    },
+    {
+      "Date & Time": "Nov 10, 2023 9:00pm",
+      "Event Type": "Music - Punk",
+      "Event Information": "He/She/They, Mountain Climber, Somewhere Soon",
+      "Venue": "Xeroz Arcade/Bar",
+      "Cost": "$10",
+      "Tickets": ""
+    },
+    {
+      "Date & Time": "Nov 10, 2023 10:00pm",
+      "Event Type": "Music - Hip Hop",
+      "Event Information": "Celebrating 50 Years of Hip Hop with DZNTZ",
+      "Venue": "Tide & Boar Gastropub",
+      "Cost": "$12-$15",
+      "Tickets": "Tickets"
+    },
+    {
+      "Date & Time": "Nov 10, 2023 10:00pm",
+      "Event Type": "Music",
+      "Event Information": "The Road Kings",
+      "Venue": "Hub City Pub",
+      "Cost": "Free",
+      "Tickets": ""
+    },
+    {
+      "Date & Time": "Nov 11, 2023 7:30pm",
+      "Event Type": "Music - Acadian",
+      "Event Information": "Salebarbes",
+      "Venue": "Capitol Theatre",
+      "Cost": "$57",
+      "Tickets": "Sold Out"
+    },
+    {
+      "Date & Time": "Nov 11, 2023 9:00pm",
+      "Event Type": "Music - Post Hardcore",
+      "Event Information": "Botfly, Broken Vow, Customer Service",
+      "Venue": "Xeroz Arcade/Bar",
+      "Cost": "$15",
+      "Tickets": ""
+    },
+    {
+      "Date & Time": "Nov 11, 2023 10:00pm",
+      "Event Type": "Music",
+      "Event Information": "Crushed Ice",
+      "Venue": "Hub City Pub",
+      "Cost": "Free",
+      "Tickets": ""
+    },
+    {
+      "Date & Time": "Nov 11, 2023 10:45pm",
+      "Event Type": "Music - Psychedelic Rock",
+      "Event Information": "Wet Grow Light, Mooch",
+      "Venue": "Tide & Boar Gastropub",
+      "Cost": "$12-$15",
+      "Tickets": "Tickets"
+    },
+    {
+      "Date & Time": "Nov 12, 2023 4:00pm",
+      "Event Type": "Sports - Hockey (QMJHL)",
+      "Event Information": "Moncton Wildcats vs Caratacts de Shawinigan",
+      "Venue": "Avenir Centre",
+      "Cost": "$23",
+      "Tickets": "Tickets"
+    },
+    {
+      "Date & Time": "Nov 12, 2023 7:30pm",
+      "Event Type": "Music - Acadian",
+      "Event Information": "Salebarbes",
+      "Venue": "Capitol Theatre",
+      "Cost": "$57",
+      "Tickets": "Sold Out"
+    },
+    {
+      "Date & Time": "Nov 12, 2023 10:00pm",
+      "Event Type": "Music",
+      "Event Information": "Ivan Daigle",
+      "Venue": "Hub City Pub",
+      "Cost": "Free",
+      "Tickets": ""
+    },
+    {
+      "Date & Time": "Nov 14, 2023 7:30pm",
+      "Event Type": "Music - Classical",
+      "Event Information": "Victoria Wong",
+      "Venue": "Capitol Theatre",
+      "Cost": "$45",
+      "Tickets": "Tickets"
+    },
+    {
+      "Date & Time": "Nov 15, 2023 7:00pm",
+      "Event Type": "Comedy",
+      "Event Information": "Kyle Barnet: Live Album Taping",
+      "Venue": "Xeroz Arcade/Bar",
+      "Cost": "$5",
+      "Tickets": "Tickets"
+    },
+    {
+      "Date & Time": "Nov 16, 2023 11:30am",
+      "Event Type": "Sports - Basketball (NCAA)",
+      "Event Information": "Atlantic Slam (Day Pass - Prep Games)",
+      "Venue": "Avenir Centre",
+      "Cost": "$34",
+      "Tickets": "Tickets"
+    },
+    {
+      "Date & Time": "Nov 16, 2023 7:30pm",
+      "Event Type": "Music - Other",
+      "Event Information": "Stick&Bow",
+      "Venue": "Capitol Theatre",
+      "Cost": "$34",
+      "Tickets": "Tickets"
+    },
+    {
+      "Date & Time": "Nov 16, 2023 8:00pm",
+      "Event Type": "Music",
+      "Event Information": "Clinton Fernandes",
+      "Venue": "Hub City Pub",
+      "Cost": "Free",
+      "Tickets": ""
+    },
+    {
+      "Date & Time": "Nov 17, 2023 5:00pm",
+      "Event Type": "Sports - Basketball (NCAA)",
+      "Event Information": "Atlantic Slam (Day Pass - 2 Games)",
+      "Venue": "Avenir Centre",
+      "Cost": "$56-$166",
+      "Tickets": "Tickets"
+    },
+    {
+      "Date & Time": "Nov 17, 2023 7:00pm",
+      "Event Type": "Sports - Hockey (AUS)",
+      "Event Information": "Université de Moncton vs Saint Mary's"
+    }
+  ]
+}
