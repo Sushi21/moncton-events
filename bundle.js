@@ -19731,7 +19731,7 @@ function displayEvents(filter) {
   fetch('events.json')
     .then((response) => response.json())
     .then((data) => {
-      const events = data.Events;
+      const events = data;
       const table = document.querySelector('table');
 
       // Clear existing table rows
@@ -19757,7 +19757,7 @@ function displayEvents(filter) {
           cell2.innerHTML = event['Event Type'];
           cell3.innerHTML = event['Event Information'];
           cell4.innerHTML = event['Venue'];
-          cell5.innerHTML = event['Cost'];
+          cell5.innerHTML = event['Price'];
           cell6.innerHTML = event['Tickets'];
         }
       });
@@ -19770,7 +19770,7 @@ function populateDropdownOptions() {
   fetch('events.json')
     .then((response) => response.json())
     .then((data) => {
-      const events = data.Events;
+      const events = data;
       const typeFilter = document.getElementById('typeFilter');
       const venueFilter = document.getElementById('venueFilter');
 
@@ -19824,7 +19824,7 @@ function createDateWithoutTime(dateString) {
 
 function convertDateFormat(inputDate) {
   try {
-    const parsedDate = parse(inputDate, 'MMM d, yyyy h:mma', new Date());
+    const parsedDate = parse(inputDate, 'MMM d, yyyy h:mm a', new Date());
     const formattedDate = format(parsedDate, 'yyyy-MM-dd');
     return formattedDate;
   } catch (error) {
