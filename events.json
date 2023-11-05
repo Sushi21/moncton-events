@@ -340,6 +340,126 @@
       "Date & Time": "Nov 17, 2023 7:00pm",
       "Event Type": "Sports - Hockey (AUS)",
       "Event Information": "Université de Moncton vs Saint Mary's"
+    },
+    {
+      "Date & Time": "Nov 25, 2023 7:30pm",
+      "Event Type": "Music - Christmas [FR|EN]",
+      "Event Information": "Noël en Acadie",
+      "Venue": "Molson Canadian Centre",
+      "Cost": "$48-$59",
+      "Tickets": "Tickets"
+    },
+    {
+      "Date & Time": "Nov 25, 2023 8:00pm",
+      "Event Type": "Comedy [FR]",
+      "Event Information": "Christine Morency",
+      "Venue": "Capitol Theatre",
+      "Cost": "$51",
+      "Tickets": "Sold Out"
+    },
+    {
+      "Date & Time": "Nov 25, 2023 9:00pm",
+      "Event Type": "Music - Metal",
+      "Event Information": "Dischord, Orchid’s Curse, Once Destroyed",
+      "Venue": "Xeroz Arcade/Bar",
+      "Cost": "$10",
+      "Tickets": ""
+    },
+    {
+      "Date & Time": "Nov 25, 2023 10:00pm",
+      "Event Type": "Music - Dance",
+      "Event Information": "Good Times with Station 11",
+      "Venue": "Tide & Boar Gastropub + Ballroom",
+      "Cost": "$20",
+      "Tickets": "Tickets"
+    },
+    {
+      "Date & Time": "Nov 25, 2023 10:00pm",
+      "Event Type": "Music",
+      "Event Information": "Monkey Town",
+      "Venue": "Hub City Pub",
+      "Cost": "Free",
+      "Tickets": ""
+    },
+    {
+      "Date & Time": "Nov 26, 2023 2:00pm",
+      "Event Type": "Music - Holiday, Folk",
+      "Event Information": "Tis The Season",
+      "Venue": "Riverview Arts Centre",
+      "Cost": "$34-$44",
+      "Tickets": "Tickets"
+    },
+    {
+      "Date & Time": "Nov 26, 2023 4:00pm",
+      "Event Type": "Sports - Hockey (QMJHL)",
+      "Event Information": "Moncton Wildcats vs Halifax Mooseheads",
+      "Venue": "Avenir Centre",
+      "Cost": "$23",
+      "Tickets": "Tickets"
+    },
+    {
+      "Date & Time": "Nov 26, 2023 7:30pm",
+      "Event Type": "Music - Folk/Country",
+      "Event Information": "Good Lovelies",
+      "Venue": "Capitol Theatre",
+      "Cost": "$51",
+      "Tickets": "Tickets"
+    },
+    {
+      "Date & Time": "Nov 28, 2023 7:30pm",
+      "Event Type": "Dance - Ballet",
+      "Event Information": "PISUWIN by Atlantic Ballet Canada",
+      "Venue": "Capitol Theatre",
+      "Cost": "$52-$64",
+      "Tickets": "Tickets"
+    },
+    {
+      "Date & Time": "Nov 29, 2023 7:30pm",
+      "Event Type": "Music - Christmas, Folk/Country",
+      "Event Information": "Lennie Gallant",
+      "Venue": "Riverview Arts Centre",
+      "Cost": "$45",
+      "Tickets": "Tickets"
+    },
+    {
+      "Date & Time": "Nov 29, 2023 8:30pm",
+      "Event Type": "Movie",
+      "Event Information": "Classic Horror Movie Night",
+      "Venue": "Xeroz Arcade/Bar",
+      "Cost": "Free",
+      "Tickets": ""
+    },
+    {
+      "Date & Time": "Nov 30, 2023 7:00pm",
+      "Event Type": "Sports - Hockey (QMJHL)",
+      "Event Information": "Moncton Wildcats vs Saint John Sea Dogs",
+      "Venue": "Avenir Centre",
+      "Cost": "$23",
+      "Tickets": "Tickets"
+    },
+    {
+      "Date & Time": "Nov 30, 2023 7:00pm",
+      "Event Type": "Music - Christmas, Instrumental",
+      "Event Information": "Home for the Holidays, East Coast Edition",
+      "Venue": "Capitol Theatre",
+      "Cost": "Free",
+      "Tickets": "Tickets"
+    },
+    {
+      "Date & Time": "Nov 30, 2023 8:00pm",
+      "Event Type": "Music",
+      "Event Information": "Paul Wilfred",
+      "Venue": "Hub City Pub",
+      "Cost": "Free",
+      "Tickets": ""
+    },
+    {
+      "Date & Time": "Nov 30, 2023 8:00pm",
+      "Event Type": "Comedy",
+      "Event Information": "Martin Edwards",
+      "Venue": "Xeroz Arcade/Bar",
+      "Cost": "",
+      "Tickets": ""
     }
   ]
 }

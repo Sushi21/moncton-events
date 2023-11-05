@@ -1,26 +1,17 @@
 <!DOCTYPE html>
 <html>
+
 <head>
   <title>Upcoming Events</title>
-  <style>
-    table {
-      border-collapse: collapse;
-      width: 100%;
-    }
-    th, td {
-      border: 1px solid #ddd;
-      padding: 8px;
-      text-align: left;
-    }
-    th {
-      background-color: #f2f2f2;
-    }
-    select, input[type="date"] {
-      margin: 5px;
-    }
-  </style>
+  <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
+
 <body>
+  <div id="banner">
+    <img
+      src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwikitravel.org%2Fupload%2Fshared%2F2%2F28%2FMoncton_Banner.jpg&f=1&nofb=1"
+      alt="Moncton Banner">
+  </div>
   <h1>Upcoming Events</h1>
   <label for="dateFilter">Filter by Date:</label>
   <input type="date" id="dateFilter">
@@ -42,7 +33,7 @@
       <th>Tickets</th>
     </tr>
   </table>
-
-  <script src="script.js"></script>
+  <script src="bundle.js"></script>
 </body>
+
 </html>
