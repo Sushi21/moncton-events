@@ -43,13 +43,10 @@ function populateDropdownOptions() {
   const typeFilter = document.getElementById('typeFilter');
   const venueFilter = document.getElementById('venueFilter');
 
-  const eventTypes = new Set();
-  const venues = new Set();
-
-  events.forEach((event) => {
-    eventTypes.add(event['Event Type']);
-    venues.add(event['Venue']);
-  });
+  const eventTypes = [
+    ...new Set(events.map((item) => item['Event Type'])),
+  ].sort();
+  const venues = [...new Set(events.map((item) => item['Venue']))].sort();
 
   for (let type of eventTypes) {
     const option = document.createElement('option');
