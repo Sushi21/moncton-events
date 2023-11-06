@@ -94,7 +94,7 @@ thead td:nth-child(6) {
 }
 tbody tr:nth-child(odd) {
   background: #4ECDC4;
-  color: white;
+  color: black;
 }
 th {
   background-color: #f2f2f2;
