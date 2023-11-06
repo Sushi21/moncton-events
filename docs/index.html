@@ -5,11 +5,13 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Upcoming Events</title>
-  <script type="module" crossorigin src="./assets/index-b7041f6b.js"></script>
-  <link rel="stylesheet" href="./assets/index-5b3cccd8.css">
+  <script type="module" crossorigin src="./assets/index-63dc4937.js"></script>
+  <link rel="stylesheet" href="./assets/index-958cfc06.css">
 </head>
 
 <body>
+
+
   <div id="banner">
 
     <img
@@ -18,7 +20,7 @@
     <h1>City of Moncton</h1>
   </div>
   <!-- <h1>Upcoming Events</h1> -->
-
+  <button onclick="topFunction()" id="goTop" title="Go to top">Top</button>
   <fieldset>
     <legend>Upcoming Events</legend>
     <label for="dateFilter">Filter by Date:</label>
@@ -48,6 +50,13 @@
   </table>
 
   
+  <script>
+    // When the user clicks on the button, scroll to the top of the document
+    function topFunction() {
+      document.body.scrollTop = 0;
+      document.documentElement.scrollTop = 0;
+    }
+  </script>
 </body>
 
 </html>
