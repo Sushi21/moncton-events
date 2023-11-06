@@ -34,7 +34,7 @@
   {
     "Date & Time": "Nov 2, 2023 8:00 PM",
     "Event Type": "Music - Classic Rock",
-    "Event Information": "Trooper, Honeymoon Suite",
+    "Event Information": "TrooperHoneymoon Suite",
     "Venue": "Molson Canadian Centre",
     "Price": "$70",
     "Tickets": null
@@ -61,7 +61,7 @@
     "Event Information": "Gord Bamford",
     "Venue": "Molson Canadian Centre",
     "Price": "$50-70",
-    "Tickets": "<a target=\"_blank\" href=\"https://tprocasinonb.ticketpro.ca/en/pages/CasinoNB_GordBamford?aff=cnb\">Tickets</a>"
+    "Tickets": "<a target=\"_blank\" href=\"https://tprocasinonb.ticketpro.ca/en/pages/CasinoNB_GordBamford?aff%3Dcnb\">Tickets</a>"
   },
   {
     "Date & Time": "Nov 3, 2023 10:00 PM",
@@ -82,7 +82,7 @@
   {
     "Date & Time": "Nov 3, 2023 10:00 PM",
     "Event Type": "Music - Dance",
-    "Event Information": "Maritime Shakedown:, - DJ Will, - Soundseeker,",
+    "Event Information": "Maritime Shakedown: - DJ Will - Soundseeker - SoundSyster - Burgers",
     "Venue": "Tide & Boar Gastropub",
     "Price": "$12-$15",
     "Tickets": "<a target=\"_blank\" href=\"https://www.tickettailor.com/events/tideandboargastropubinc/1042078\">Tickets</a>"
@@ -90,7 +90,7 @@
   {
     "Date & Time": "Nov 3, 2023 10:00 PM",
     "Event Type": "Music - Indie Rock",
-    "Event Information": "Marian, Kylie Fox",
+    "Event Information": "MarianKylie Fox",
     "Venue": "Xeroz Arcade/Bar",
     "Price": "$10",
     "Tickets": null
@@ -122,7 +122,7 @@
   {
     "Date & Time": "Nov 4, 2023 9:00 PM",
     "Event Type": "Music - Hard Rock, Stoner Rock",
-    "Event Information": "Irönhead: Tribute to Mötorhead, Diner Drugs",
+    "Event Information": "Irönhead: Tribute to MötorheadDiner Drugs",
     "Venue": "Xeroz Arcade/Bar",
     "Price": "$15",
     "Tickets": null
@@ -178,7 +178,7 @@
   {
     "Date & Time": "Nov 7, 2023 7:30 PM",
     "Event Type": "Music - Indie Rock",
-    "Event Information": "Dan Mangan, Aysanbee",
+    "Event Information": "Dan ManganAysanbee",
     "Venue": "Capitol Theatre",
     "Price": "$51",
     "Tickets": "<a target=\"_blank\" href=\"https://capitol.tuxedobillet.com/main/dan-mangan/20231107193000\">Tickets</a>"
@@ -186,7 +186,7 @@
   {
     "Date & Time": "Nov 8, 2023 7:30 PM",
     "Event Type": "Various - Acadian",
-    "Event Information": "FrancoFête en Acadie:, - DansEncorps, - JP LeB",
+    "Event Information": "FrancoFête en Acadie: - DansEncorps - JP LeBlanc - Maten - Willows - Joseph Edgar - Veranda",
     "Venue": "Capitol Theatre",
     "Price": "$21",
     "Tickets": "<a target=\"_blank\" href=\"https://capitol.tuxedobillet.com/main/francofete-en-acadie-soir-1-2024/20231108193000\">Tickets</a>"
@@ -210,15 +210,15 @@
   {
     "Date & Time": "Nov 9, 2023 7:00 PM",
     "Event Type": "Music - Rock",
-    "Event Information": "Love Guns: Kiss Tribute, Loaded Dice",
+    "Event Information": "Love Guns: Kiss TributeLoaded Dice",
     "Venue": "Molson Canadian Centre",
     "Price": "$42-53",
-    "Tickets": "<a target=\"_blank\" href=\"https://tprocasinonb.ticketpro.ca/en/pages/CasinoNB_LoveGuns?aff=cnb\">Tickets</a>"
+    "Tickets": "<a target=\"_blank\" href=\"https://tprocasinonb.ticketpro.ca/en/pages/CasinoNB_LoveGuns?aff%3Dcnb\">Tickets</a>"
   },
   {
     "Date & Time": "Nov 9, 2023 7:30 PM",
     "Event Type": "Various - Acadian",
-    "Event Information": "FrancoFête en Acadie, - Stéphanie Morin-Robert,",
+    "Event Information": "FrancoFête en Acadie: - Stéphanie Morin-Robert - Beau Nectar - Léa Jarry - Sirène et Matelot - Sylvie Boulianne - Beauxmont",
     "Venue": "Capitol Theatre",
     "Price": "$21",
     "Tickets": "<a target=\"_blank\" href=\"https://capitol.tuxedobillet.com/main/francofete-en-acadie-soir-2-2024/20231109193000\">Tickets</a>"
@@ -242,7 +242,7 @@
   {
     "Date & Time": "Nov 10, 2023 7:30 PM",
     "Event Type": "Various - Acadian",
-    "Event Information": "FrancoFête en Acadie, - Zeugma Danse, - Sympa",
+    "Event Information": "FrancoFête en Acadie: - Zeugma Danse - Sympa César - Émile Bilodeau - Spoutnique - Beauséjour - Aboiteau",
     "Venue": "Capitol Theatre",
     "Price": "$21",
     "Tickets": "<a target=\"_blank\" href=\"https://capitol.tuxedobillet.com/main/francofete-en-acadie-soir-3-2024/20231110193000\">Tickets</a>"
@@ -274,7 +274,7 @@
   {
     "Date & Time": "Nov 10, 2023 10:00 PM",
     "Event Type": "Music - Hip Hop",
-    "Event Information": "Celebrating 50 Years of Hip Hop:, - DZNTZ, - M",
+    "Event Information": "Celebrating 50 Years of Hip Hop: - DZNTZ - Markoshi - Adam Analog - Cue Two",
     "Venue": "Tide & Boar Gastropub",
     "Price": "$12-$15",
     "Tickets": "<a target=\"_blank\" href=\"https://www.tickettailor.com/events/tideandboargastropubinc/1041241\">Tickets</a>"
@@ -405,12 +405,12 @@
     "Event Information": "Big Wreck",
     "Venue": "Molson Canadian Centre",
     "Price": "$65-$76",
-    "Tickets": "<a target=\"_blank\" href=\"https://tprocasinonb.ticketpro.ca/en/pages/CasinoNB_BigWreck?aff=cnb\">Tickets</a>"
+    "Tickets": "<a target=\"_blank\" href=\"https://tprocasinonb.ticketpro.ca/en/pages/CasinoNB_BigWreck?aff%3Dcnb\">Tickets</a>"
   },
   {
     "Date & Time": "Nov 17, 2023 9:00 PM",
     "Event Type": "Music - Metal",
-    "Event Information": "Aeternam, Vortex, Exultance",
+    "Event Information": "AeternamVortexExultance",
     "Venue": "Xeroz Arcade/Bar",
     "Price": "$15-$20",
     "Tickets": "<a target=\"_blank\" href=\"https://lepointdevente.com/billets/j54231117001\">Tickets</a>"
@@ -493,12 +493,12 @@
     "Event Information": "Heart & Stroke NB Presents: Walk Off The Earth",
     "Venue": "Molson Canadian Centre",
     "Price": "$109-$129",
-    "Tickets": "<a target=\"_blank\" href=\"https://tprocasinonb.ticketpro.ca/en/pages/CasinoNB_HeartStroke?aff=cnb\">Tickets</a>"
+    "Tickets": "<a target=\"_blank\" href=\"https://tprocasinonb.ticketpro.ca/en/pages/CasinoNB_HeartStroke?aff%3Dcnb\">Tickets</a>"
   },
   {
     "Date & Time": "Nov 18, 2023 8:00 PM",
     "Event Type": "Comedy",
-    "Event Information": "Yuk Yuk’s Stand Up Comedy:, - Peter White, - S",
+    "Event Information": "Yuk Yuk’s Stand Up Comedy: - Peter White - Shane Ogden - Charis Halef",
     "Venue": "The Caveau",
     "Price": "$27",
     "Tickets": "<a target=\"_blank\" href=\"https://www.tickettailor.com/events/tideandboargastropubinc/1018998\">Tickets</a>"
@@ -586,7 +586,7 @@
   {
     "Date & Time": "Nov 23, 2023 9:00 PM",
     "Event Type": "Music - Rock [FR]",
-    "Event Information": "Sluice, Nick Neo",
+    "Event Information": "SluiceNick Neo",
     "Venue": "Xeroz Arcade/Bar",
     "Price": "$15",
     "Tickets": null
@@ -657,11 +657,11 @@
   },
   {
     "Date & Time": "Nov 25, 2023 7:30 PM",
-    "Event Type": "Music - Christmas [FR",
-    "Event Information": "EN]",
-    "Venue": "Noël en Acadie",
-    "Price": "Molson Canadian Centre",
-    "Tickets": null
+    "Event Type": "Music - Christmas [FR|EN]",
+    "Event Information": "Noël en Acadie",
+    "Venue": "Molson Canadian Centre",
+    "Price": "$48-$59",
+    "Tickets": "<a target=\"_blank\" href=\"https://tprocasinonb.ticketpro.ca/en/pages/CasinoNB_NOELENACADIE2023?aff%3Dcnb\">Tickets</a>"
   },
   {
     "Date & Time": "Nov 25, 2023 8:00 PM",
@@ -674,7 +674,7 @@
   {
     "Date & Time": "Nov 25, 2023 9:00 PM",
     "Event Type": "Music - Metal",
-    "Event Information": "Dischord, Orchid’s Curse, Once Destroyed",
+    "Event Information": "DischordOrchid’s CurseOnce Destroyed",
     "Venue": "Xeroz Arcade/Bar",
     "Price": "$10",
     "Tickets": null
@@ -762,7 +762,7 @@
   {
     "Date & Time": "Nov 30, 2023 7:00 PM",
     "Event Type": "Music - Christmas, Instrumental",
-    "Event Information": "Home for the Holidays, East Coast Edition, - St",
+    "Event Information": "Home for the Holidays, East Coast Edition - Stadacond Band of the Royal Canadian Navy",
     "Venue": "Capitol Theatre",
     "Price": "Free",
     "Tickets": "<a target=\"_blank\" href=\"https://capitol.tuxedobillet.com/main/home-for-the-holidays-east-coast-edition/20231130190000\">Tickets</a>"
@@ -782,5 +782,325 @@
     "Venue": "Xeroz Arcade/Bar",
     "Price": "",
     "Tickets": null
+  },
+  {
+    "Date & Time": "Dec 1, 2023 8:00 PM",
+    "Event Type": "Other - Lights",
+    "Event Information": "Magnetic Hill Zoo Wild Lights",
+    "Venue": "Magnetic Hill Zoo",
+    "Price": "$11",
+    "Tickets": "<a target=\"_blank\" href=\"https://tickets.moncton.ca/event/354:98/\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 1, 2023 8:00 PM",
+    "Event Type": "Drag - Cabaret",
+    "Event Information": "Jingle Bell of the Ball",
+    "Venue": "Capitol Theatre",
+    "Price": "$33",
+    "Tickets": "<a target=\"_blank\" href=\"https://capitol.tuxedobillet.com/main/jingle-bell-of-the-ball\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 2, 2023 7:00 PM",
+    "Event Type": "Sports - Hockey (QMJHL)",
+    "Event Information": "Moncton Wildcats vs Sagueneens de Chicoutimi",
+    "Venue": "Avenir Centre",
+    "Price": "$23",
+    "Tickets": "<a target=\"_blank\" href=\"https://www.ticketmaster.ca/moncton-wildcats-vs-sagueneens-de-chicoutimi-moncton-new-brunswick-12-02-2023/event/31005F10982D1801\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 2, 2023 7:30 PM",
+    "Event Type": "Music - Rock, Rockabilly",
+    "Event Information": "Elvis Rockin Christmas",
+    "Venue": "Molson Canadian Centre",
+    "Price": "$52-$64",
+    "Tickets": "<a target=\"_blank\" href=\"https://tprocasinonb.ticketpro.ca/en/pages/CasinoNB_ElvisChristmas2023?aff%3Dcnb\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 2, 2023 8:00 PM",
+    "Event Type": "Music - Guitar, Acoustic",
+    "Event Information": "Jesse Cook",
+    "Venue": "Capitol Theatre",
+    "Price": "$56",
+    "Tickets": "<a target=\"_blank\" href=\"https://capitol.tuxedobillet.com/main/jesse-cook\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 3, 2023 7:30 PM",
+    "Event Type": "Music - Folk Rock [FR]",
+    "Event Information": "2Frères",
+    "Venue": "Capitol Theatre",
+    "Price": "$51",
+    "Tickets": "<a target=\"_blank\" href=\"https://capitol.tuxedobillet.com/main/2freres\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 7, 2023 7:00 PM",
+    "Event Type": "Dance - Ballet",
+    "Event Information": "Nutcracker by Academy of Clasical Ballet & Modern Dances",
+    "Venue": "Capitol Theatre",
+    "Price": "$59",
+    "Tickets": "<a target=\"_blank\" href=\"https://capitol.tuxedobillet.com/main/casse-noisette-2023/20231207190000\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 7, 2023 8:00 PM",
+    "Event Type": "Music - Pop",
+    "Event Information": "Charlotte Cardin",
+    "Venue": "Molson Canadian Centre",
+    "Price": "$57",
+    "Tickets": "<a target=\"_blank\" href=\"https://tprocasinonb.ticketpro.ca/en/pages/CasinoNB_CharlotteCardin?aff%3Dcnb\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 8, 2023 7:00 PM",
+    "Event Type": "Dance - Ballet",
+    "Event Information": "Nutcracker by Academy of Clasical Ballet & Modern Dances",
+    "Venue": "Capitol Theatre",
+    "Price": "$59",
+    "Tickets": "<a target=\"_blank\" href=\"https://capitol.tuxedobillet.com/main/casse-noisette-2023/20231208190000\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 8, 2023 7:30 PM",
+    "Event Type": "Music - Rock",
+    "Event Information": "The Glorious SonsThe Blue Stones",
+    "Venue": "Molson Canadian Centre",
+    "Price": "$62",
+    "Tickets": "<a target=\"_blank\" href=\"https://tprocasinonb.ticketpro.ca/en/pages/CasinoNB_TGS?aff%3Dcnb\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 8, 2023 7:30 PM",
+    "Event Type": "Comedy [FR|EN]",
+    "Event Information": "TJ (Tanael Joachim) in Colonizing America",
+    "Venue": "Xeroz Arcade/Bar",
+    "Price": "$25",
+    "Tickets": "<a target=\"_blank\" href=\"https://www.eventbrite.com/e/colonizing-america-a-bilingual-standup-comedy-show-tickets-749402381697\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 8, 2023 10:30 PM",
+    "Event Type": "Music - Punk Rock",
+    "Event Information": "The Dirty NilLike A MotorcycleDiner Drugs",
+    "Venue": "The Caveau",
+    "Price": "$28",
+    "Tickets": "<a target=\"_blank\" href=\"https://www.tickettailor.com/events/tideandboargastropubinc/1020204\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 9, 2023 2:00 PM",
+    "Event Type": "Dance - Ballet",
+    "Event Information": "Nutcracker by Academy of Clasical Ballet & Modern Dances",
+    "Venue": "Capitol Theatre",
+    "Price": "$59",
+    "Tickets": "<a target=\"_blank\" href=\"https://capitol.tuxedobillet.com/main/casse-noisette-2023/20231209140000\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 9, 2023 7:00 PM",
+    "Event Type": "Dance - Ballet",
+    "Event Information": "Nutcracker by Academy of Clasical Ballet & Modern Dances",
+    "Venue": "Capitol Theatre",
+    "Price": "$59",
+    "Tickets": "<a target=\"_blank\" href=\"https://capitol.tuxedobillet.com/main/casse-noisette-2023/20231209190000\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 9, 2023 7:00 PM",
+    "Event Type": "Music - Christmas, Country",
+    "Event Information": "A Classic Country Christmas",
+    "Venue": "Molson Canadian Centre",
+    "Price": "$30-$48",
+    "Tickets": "<a target=\"_blank\" href=\"https://tprocasinonb.ticketpro.ca/en/pages/CasinoNB_ClassicCountryChristmas2023?aff%3Dcnb\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 9, 2023 8:00 PM",
+    "Event Type": "Comedy",
+    "Event Information": "Yuk Yuk's Stand Up Comedy: - Dan Hendricken - Scott MacLean - Line Woods",
+    "Venue": "The Caveau",
+    "Price": "$27",
+    "Tickets": "<a target=\"_blank\" href=\"https://www.tickettailor.com/events/tideandboargastropubinc/1020898\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 9, 2023 9:00 PM",
+    "Event Type": "Music - Rock, Punk Rock",
+    "Event Information": "The MotorleagueKill Chicago",
+    "Venue": "Xeroz Arcade/Bar",
+    "Price": "",
+    "Tickets": null
+  },
+  {
+    "Date & Time": "Dec 10, 2023 2:00 PM",
+    "Event Type": "Dance - Ballet",
+    "Event Information": "Nutcracker by Academy of Clasical Ballet & Modern Dances",
+    "Venue": "Capitol Theatre",
+    "Price": "$59",
+    "Tickets": "<a target=\"_blank\" href=\"https://capitol.tuxedobillet.com/main/casse-noisette-2023/20231210140000\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 10, 2023 7:00 PM",
+    "Event Type": "Dance - Ballet",
+    "Event Information": "Nutcracker by Academy of Clasical Ballet & Modern Dances",
+    "Venue": "Capitol Theatre",
+    "Price": "$59",
+    "Tickets": "<a target=\"_blank\" href=\"https://capitol.tuxedobillet.com/main/casse-noisette-2023/20231210190000\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 12, 2023 6:00 PM",
+    "Event Type": "Dance",
+    "Event Information": "Dance Envy Winter Showcase",
+    "Venue": "Riverview Arts Centre",
+    "Price": "$32",
+    "Tickets": "<a target=\"_blank\" href=\"https://riverviewartscentre.tuxedobillet.com/main/dance-envy-winter-showcase/20231212180000\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 13, 2023 7:30 PM",
+    "Event Type": "Music - Christmas, Disco/Funk",
+    "Event Information": "Boney M Holiday Favourites and Classic Hits",
+    "Venue": "Avenir Centre",
+    "Price": "$77-$96",
+    "Tickets": "<a target=\"_blank\" href=\"https://www.ticketmaster.ca/boney-m-moncton-new-brunswick-12-13-2023/event/31005F26BB2D3DC4\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 13, 2023 8:00 PM",
+    "Event Type": "Music - Christmas",
+    "Event Information": "Noël avec Les Muses, les frères Belivo & Roland Gauvin",
+    "Venue": "Capitol Theatre",
+    "Price": "$63",
+    "Tickets": "<a target=\"_blank\" href=\"https://capitol.tuxedobillet.com/main/noel-avec-les-muses-belivo-et-roland-gauvin-2023/20231213200000\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 14, 2023 7:30 PM",
+    "Event Type": "Music - Christmas, Roots",
+    "Event Information": "A Gunning & Cormier Christmas",
+    "Venue": "Riverview Arts Centre",
+    "Price": "$42-$45",
+    "Tickets": "<a target=\"_blank\" href=\"https://riverviewartscentre.tuxedobillet.com/main/a-gunning-et-cormier-christmas/20231214193000\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 14, 2023 8:00 PM",
+    "Event Type": "Music - Christmas",
+    "Event Information": "Noël avec Les Muses, les frères Belivo & Roland Gauvin",
+    "Venue": "Capitol Theatre",
+    "Price": "$63",
+    "Tickets": "<a target=\"_blank\" href=\"https://capitol.tuxedobillet.com/main/noel-avec-les-muses-belivo-et-roland-gauvin-2023/20231214200000\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 15, 2023 7:00 PM",
+    "Event Type": "Sports - Hockey (QMJHL)",
+    "Event Information": "Moncton Wildcats vs Acadie-Bathurst Titans",
+    "Venue": "Avenir Centre",
+    "Price": "$23",
+    "Tickets": "<a target=\"_blank\" href=\"https://www.ticketmaster.ca/moncton-wildcats-vs-acadiebathurst-titans-moncton-new-brunswick-12-15-2023/event/31005F10982F1803\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 15, 2023 8:00 PM",
+    "Event Type": "Music - Christmas",
+    "Event Information": "Noël avec Les Muses, les frères Belivo & Roland Gauvin",
+    "Venue": "Capitol Theatre",
+    "Price": "$63",
+    "Tickets": "<a target=\"_blank\" href=\"https://capitol.tuxedobillet.com/main/noel-avec-les-muses-belivo-et-roland-gauvin-2023/20231215200000\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 15, 2023 8:00 PM",
+    "Event Type": "Music - Christmas, Country",
+    "Event Information": "A Johnny Reid Christmas",
+    "Venue": "Molson Canadian Centre",
+    "Price": "$54-$85",
+    "Tickets": "<a target=\"_blank\" href=\"https://www.ticketmaster.ca/event/31005F356F101361\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 16, 2023 2:00 PM",
+    "Event Type": "Music - Christmas",
+    "Event Information": "Noël avec Les Muses, les frères Belivo & Roland Gauvin",
+    "Venue": "Capitol Theatre",
+    "Price": "$63",
+    "Tickets": "<a target=\"_blank\" href=\"https://capitol.tuxedobillet.com/main/noel-avec-les-muses-belivo-et-roland-gauvin-2023/20231216140000\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 16, 2023 7:00 PM",
+    "Event Type": "Sports - Hockey (QMJHL)",
+    "Event Information": "Moncton Wildcats vs Cape Breton Eagles",
+    "Venue": "Avenir Centre",
+    "Price": "$23",
+    "Tickets": "<a target=\"_blank\" href=\"https://www.ticketmaster.ca/moncton-wildcats-vs-cape-breton-eagles-moncton-new-brunswick-12-16-2023/event/31005F1098311807\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 16, 2023 8:00 PM",
+    "Event Type": "Music - Christmas",
+    "Event Information": "Noël avec Les Muses, les frères Belivo & Roland Gauvin",
+    "Venue": "Capitol Theatre",
+    "Price": "$63",
+    "Tickets": "<a target=\"_blank\" href=\"https://capitol.tuxedobillet.com/main/noel-avec-les-muses-belivo-et-roland-gauvin-2023/20231216200000\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 16, 2023 8:00 PM",
+    "Event Type": "Music - Christmas, Country",
+    "Event Information": "A Johnny Reid Christmas",
+    "Venue": "Molson Canadian Centre",
+    "Price": "$54-$85",
+    "Tickets": "<a target=\"_blank\" href=\"https://www.ticketmaster.ca/event/31005F356F141365\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 16, 2023 8:00 PM",
+    "Event Type": "Comedy",
+    "Event Information": "Yuk Yuk's Stand Up Comedy - Travis Lindsay - Ian Black - Adrienne Gabrielle",
+    "Venue": "The Caveau",
+    "Price": "$27",
+    "Tickets": "<a target=\"_blank\" href=\"https://www.tickettailor.com/events/tideandboargastropubinc/1020917\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 17, 2023 2:00 PM",
+    "Event Type": "Music - Christmas",
+    "Event Information": "Noël avec Les Muses, les frères Belivo & Roland Gauvin",
+    "Venue": "Capitol Theatre",
+    "Price": "$63",
+    "Tickets": "<a target=\"_blank\" href=\"https://capitol.tuxedobillet.com/main/noel-avec-les-muses-belivo-et-roland-gauvin-2023/20231217140000\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 19, 2023 8:00 PM",
+    "Event Type": "Music - Christmas",
+    "Event Information": "Noël avec Les Muses, les frères Belivo & Roland Gauvin",
+    "Venue": "Capitol Theatre",
+    "Price": "$63",
+    "Tickets": "<a target=\"_blank\" href=\"https://capitol.tuxedobillet.com/main/noel-avec-les-muses-belivo-et-roland-gauvin-2023/20231217200000\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 20, 2023 7:30 PM",
+    "Event Type": "Comedy",
+    "Event Information": "Julien Dionne and Jen Grant: Home for the Holidays",
+    "Venue": "Tide & Boar Ballroom",
+    "Price": "$25",
+    "Tickets": "<a target=\"_blank\" href=\"https://www.tickettailor.com/events/tideandboargastropubinc/1049071\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 22, 2023 8:00 PM",
+    "Event Type": "Music - Christmas",
+    "Event Information": "Les Gars du Nord",
+    "Venue": "Capitol Theatre",
+    "Price": "$53",
+    "Tickets": "<a target=\"_blank\" href=\"https://capitol.tuxedobillet.com/main/les-gars-du-nord-2023/20231222200000\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 28, 2023 2:00 PM",
+    "Event Type": "Theatre - Comedy",
+    "Event Information": "Dufflebag Theatre Presents Snow White",
+    "Venue": "Capitol Theatre",
+    "Price": "Free*",
+    "Tickets": "<a target=\"_blank\" href=\"https://capitol.tuxedobillet.com/main/dufflebag-theatre-presents-snow-white/20231228140000\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 30, 2023 7:00 PM",
+    "Event Type": "Sports - Hockey (QMJHL)",
+    "Event Information": "Moncton Wildcats vs Saint John Sea Dogs",
+    "Venue": "Avenir Centre",
+    "Price": "$23",
+    "Tickets": "<a target=\"_blank\" href=\"https://www.ticketmaster.ca/moncton-wildcats-vs-saint-john-sea-moncton-new-brunswick-12-30-2023/event/31005F1098331809\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 30, 2023 8:00 PM",
+    "Event Type": "Music - Classic Rock",
+    "Event Information": "Burton Cummings",
+    "Venue": "Molson Canadian Centre",
+    "Price": "$74-141",
+    "Tickets": "<a target=\"_blank\" href=\"https://www.ticketmaster.ca/event/31005F34C312355B\">Tickets</a>"
+  },
+  {
+    "Date & Time": "Dec 31, 2023 4:00 PM",
+    "Event Type": "Sports - Hockey (QMJHL)",
+    "Event Information": "Moncton Wildcats vs Charlottetown Islanders",
+    "Venue": "Avenir Centre",
+    "Price": "$23",
+    "Tickets": "<a target=\"_blank\" href=\"https://www.ticketmaster.ca/moncton-wildcats-vs-charlottetown-islanders-moncton-new-brunswick-12-31-2023/event/31005F109837180C\">Tickets</a>"
   }
 ]

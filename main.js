@@ -1,10 +1,10 @@
-import './style.css'
+import './style.css';
 
-import { format, parse } from 'date-fns'
+import { format, parse } from 'date-fns';
 
 import * as data from './events.json';
 
-function displayEvents(filter) {  
+function displayEvents(filter) {
   const events = data.default;
   const table = document.querySelector('table');
 
@@ -120,4 +120,3 @@ document.getElementById('venueFilter').addEventListener('change', () => {
 });
 
 displayEvents({});
-
