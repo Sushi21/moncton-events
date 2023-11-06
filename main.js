@@ -6,7 +6,9 @@ import * as data from './events.json';
 
 function displayEvents(filter) {
   const events = data.default;
-  const table = document.querySelector('table');
+  const table = document
+    .querySelector('table')
+    .getElementsByTagName('tbody')[0];
 
   // Clear existing table rows
   while (table.rows.length > 1) {
