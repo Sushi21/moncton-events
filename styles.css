@@ -1,5 +1,23 @@
+body{
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 #banner {
   text-align: center;
+  position: relative;
+}
+
+#banner h1 {
+ margin: 0;
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+font-size: clamp(1.5rem, 2.5vw, 2.8rem);
+color: white;
 }
 
 #banner img {
@@ -10,16 +28,68 @@
 
 table {
   border-collapse: collapse;
-  width: 100%;
+  /* width: 100%; */
+  margin: 1em auto;
+}
+
+fieldset {
+  margin: 1em;
+  border: thin solid #4ECDC4;
+  border-left: 0;
+  border-right: 0;
+  text-align: center;
+  
+}
+legend {
+  padding: 0 1em;
+  font-size: 1.3em;
+  font-weight: bold;
+  color: rgb(56, 56, 56);
 }
 th, td {
-  border: 1px solid #ddd;
-  padding: 8px;
+  border: thin solid #ddd;
+  padding: .7em;
   text-align: left;
+}
+
+thead th{
+  background: rgb(87, 87, 87);
+  color: white;
+  text-transform: uppercase;
+  text-align: center;
+}
+input, select {
+  border: thin solid #4ECDC4;
+  padding: 0.5em;
+  border-radius: 0;
+  cursor: pointer;
+}
+
+thead td:nth-child(6) {
+  padding: 0 2em;
+}
+thead td:nth-child(5),
+thead td:nth-child(6) {
+  text-align: center;
+}
+thead tr:nth-child(odd) {
+  background: #4ECDC4;
+  color: white;
 }
 th {
   background-color: #f2f2f2;
 }
 select, input[type="date"] {
   margin: 5px;
+}
+
+a{
+  color: #2E282A;
+  transition:200ms ease-in-out;
+  font-size: large;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #CD5334;
 }
